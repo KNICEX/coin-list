@@ -4,6 +4,7 @@
 ## 一/二层
 - metis
 - matic
+- sui
 - near ⭐
 
 ## 铭文
@@ -13,6 +14,7 @@
 ## 基础架构
 - tia
 - link
+- dym ⭐
 
 ## eth生态
 - eth
@@ -23,6 +25,8 @@
 ## meme
 - wif  ⭐
 - pepe
+- people
+
 
 ## AI
 - fet ⭐
